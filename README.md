@@ -20,25 +20,25 @@ The system combines **MediaPipe**, **Python-based gesture recognition**, **OpenC
 
 Real-time demonstration of hand tracking and gesture-controlled interaction with 3D holographic content.
 
-[Watch Demo](https://fortuner47.github.io/ThalhaPortfolio/Holoract%20Demo_1.mp4)
+[Watch Demo]((https://jumpshare.com/s/y9YPKoHKpbArKyACD8vD))
 
 ### Demo 2 — Interactive Holographic Learning
 
 Extended demonstration showcasing holographic projection and interactive STEM learning modules.
 
-[Watch Demo](https://fortuner47.github.io/ThalhaPortfolio/Holoract%20Demo_2.mp4)
+[Watch Demo](https://jumpshare.com/share/ugloCd09umFFx9eJ6CoW)
 
 ---
 
 ## 🖼️ System Interface
 
-![HOLORACT System Interface](https://fortuner47.github.io/ThalhaPortfolio/holoract_interface.png)
+![HOLORACT System Interface](https://cdn.corenexis.com/view/89726211440)
 
 ### System Interface
 
 Real-time hand tracking interface displaying the camera feed, gesture information, and interactive learning modules.
 
-![HOLORACT Holographic Display](https://fortuner47.github.io/ThalhaPortfolio/holoract_hologram.png)
+![HOLORACT Holographic Display]((https://cdn.corenexis.com/view/42671621440))
 
 ### Holographic Display
 
