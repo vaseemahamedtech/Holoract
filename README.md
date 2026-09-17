@@ -357,14 +357,6 @@ Potential extensions include:
 
 ---
 
-## 🔗 Links
-
-**GitHub Repository:**
-https://github.com/Fortuner47/HOLORACT
-
-**Portfolio:**
-https://fortuner47.github.io/ThalhaPortfolio/
-
 **Research:**
 Research paper submitted to the SCRS CIMA Conference (Springer), currently under review.
 
@@ -372,7 +364,7 @@ Research paper submitted to the SCRS CIMA Conference (Springer), currently under
 
 ## 👨‍💻 Author
 
-**Thalha Ahamed T**
+**Vaseem Ahamed B**
 
 Artificial Intelligence & Data Science · Computer Vision · Machine Learning · 3D Visualization · Interactive AI
 
