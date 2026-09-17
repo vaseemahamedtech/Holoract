@@ -20,7 +20,7 @@ The system combines **MediaPipe**, **Python-based gesture recognition**, **OpenC
 
 Real-time demonstration of hand tracking and gesture-controlled interaction with 3D holographic content.
 
-[Watch Demo]((https://jumpshare.com/s/y9YPKoHKpbArKyACD8vD))
+[Watch Demo](https://jumpshare.com/s/y9YPKoHKpbArKyACD8vD)
 
 ### Demo 2 — Interactive Holographic Learning
 
